@@ -49,24 +49,22 @@ GNU es un sistema operativo de software libre, es decir, respeta la libertad de 
 
 ¿Qué es GNU/Linux?
 ------------------
-![GNU/Linux](img/gnu_tux.png)
-
-
-Estándares Libres y Abiertos
-----------------------------
-crear un ambiente favorable para que el Software Libre pueda prosperar
-
+![](img/gnu_tux.png)
 
 Distribuciones GNU/Linux
 ------------------------
 ![](img/distros.jpg)
 
-Privacidad
-----------
-
 ¿Qué podemos hacer con SL?
 --------------------------
 ![](img/gnu.jpg)
+
+Privacidad
+----------
+
+Estándares Libres y Abiertos
+----------------------------
+Crear un ambiente favorable para que el Software Libre pueda prosperar
 
 ---------------
 
