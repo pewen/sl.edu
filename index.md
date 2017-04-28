@@ -72,6 +72,10 @@ Distribuciones GNU/Linux
 
 ![](img/writer.png)
 
+------------------
+
+![](img/calc.jpg)
+
 
 Privacidad
 ----------
