@@ -9,6 +9,10 @@ Software Privativo
 ------------------
 Software No Libre
 
+¿Qué es el movimiento del software libre?
+-----------------------------------------
+Promueve que los usuarios de computadoras obtengan la libertad que otorga el software libre. El software libre permite que los usuarios ejerzan el control de sus propias tareas de computación
+
 Software Libre
 --------------
 
@@ -35,23 +39,34 @@ Modificar
 ---------
 La libertad de mejorar el programa y hacer públicas esas mejoras para que toda la comunidad pueda beneficiarse de ellas
 
-Libre no significa gratis
+Libre ≠ gratis
 -------------------------
-Libre no significa necesariamente “sin costo” sino simplemente “libre” y sugiere así mismo que se interprete esta idea en el sentido de libertad de expresión y no como una suerte de barra libre
+El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
+
+¿Qué es GNU?
+------------
+GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios.
+
+¿Qué es GNU/Linux?
+------------------
+![GNU/Linux](img/gnu_tux.png)
+
 
 Estándares Libres y Abiertos
 ----------------------------
 crear un ambiente favorable para que el Software Libre pueda prosperar
 
-¿Qué podemos hacer con SL?
---------------------------
 
 Distribuciones GNU/Linux
 ------------------------
+![](img/distros.jpg)
 
 Privacidad
 ----------
 
+¿Qué podemos hacer con SL?
+--------------------------
+![](img/gnu.jpg)
 
 ---------------
 
