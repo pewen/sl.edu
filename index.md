@@ -12,7 +12,7 @@ Software No Libre
 Software Libre
 --------------
 
-Respeta 4 libertades fundamentales
+Respeta 4 libertades esenciales
 
 * Ejecutar
 * Estudiar
@@ -55,7 +55,7 @@ Privacidad
 
 ---------------
 
-![Mapa Conceptual](img/Mapa_conceptual_del_software_libre.svg)
+![Mapa Conceptual](img/Mapa_conceptual_del_software_libre.jpg)
 
 
 Bibliografía
