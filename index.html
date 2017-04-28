@@ -29,8 +29,8 @@
 
 <section>
   <h1 class="title">Software Libre para una Educación Libre</h1>
-  <h2 class="author">Daniel</h2>
-  <h3 class="date">4 de Mayo 2017</h3>
+  <p class="author">Daniel</p>
+  <p class="date">4 de Mayo 2017</p>
 </section>
 
 <section id="qué-es-el-software" class="slide level2">
@@ -43,6 +43,12 @@
 <section id="qué-es-el-movimiento-del-software-libre" class="slide level2">
 <h1>¿Qué es el movimiento del software libre?</h1>
 <p>Promueve que los usuarios de computadoras obtengan la libertad que otorga el software libre. El software libre permite que los usuarios ejerzan el control de sus propias tareas de computación</p>
+</section>
+<section id="richard-stallman" class="slide level2">
+<h1>Richard Stallman</h1>
+<figure>
+<img src="img/RMS_SL_esc.png" />
+</figure>
 </section>
 <section id="software-libre" class="slide level2">
 <h1>Software Libre</h1>
@@ -70,13 +76,15 @@
 <h1>Modificar</h1>
 <p>La libertad de mejorar el programa y hacer públicas esas mejoras para que toda la comunidad pueda beneficiarse de ellas</p>
 </section>
-<section id="libre-gratis" class="slide level2">
-<h1>Libre ≠ gratis</h1>
+<section id="free-software.-software-libre-libre-gratis" class="slide level2">
+<h1>Free Software. Software Libre (Libre ≠ gratis)</h1>
 <p>El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»</p>
 </section>
 <section id="qué-es-gnu" class="slide level2">
 <h1>¿Qué es GNU?</h1>
-<p>GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios.</p>
+<figure>
+<img src="img/gnu-head.png" alt="GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios" /><figcaption>GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios</figcaption>
+</figure>
 </section>
 <section id="qué-es-gnulinux" class="slide level2">
 <h1>¿Qué es GNU/Linux?</h1>
@@ -94,6 +102,18 @@
 <h1>¿Qué podemos hacer con SL?</h1>
 <figure>
 <img src="img/gnu.jpg" />
+</figure>
+</section>
+<section class="slide level2">
+
+<figure>
+<img src="img/libreoffice.png" />
+</figure>
+</section>
+<section class="slide level2">
+
+<figure>
+<img src="img/writer.png" />
 </figure>
 </section>
 <section id="privacidad" class="slide level2">
@@ -127,12 +147,14 @@
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
 
         // Optional reveal.js plugins
         dependencies: [
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
-          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+              { src: 'reveal.js/plugin/notes/notes.js', async: true }
         ]
       });
     </script>

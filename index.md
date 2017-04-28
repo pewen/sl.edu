@@ -13,6 +13,11 @@ Software No Libre
 -----------------------------------------
 Promueve que los usuarios de computadoras obtengan la libertad que otorga el software libre. El software libre permite que los usuarios ejerzan el control de sus propias tareas de computación
 
+Richard Stallman
+----------------
+
+![](img/RMS_SL_esc.png)
+
 Software Libre
 --------------
 
@@ -39,13 +44,13 @@ Modificar
 ---------
 La libertad de mejorar el programa y hacer públicas esas mejoras para que toda la comunidad pueda beneficiarse de ellas
 
-Libre ≠ gratis
+Free Software. Software Libre (Libre ≠ gratis)
 -------------------------
 El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
 
 ¿Qué es GNU?
 ------------
-GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios.
+![GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios](img/gnu-head.png)
 
 ¿Qué es GNU/Linux?
 ------------------
@@ -58,6 +63,16 @@ Distribuciones GNU/Linux
 ¿Qué podemos hacer con SL?
 --------------------------
 ![](img/gnu.jpg)
+
+
+------------------------
+
+![](img/libreoffice.png)
+
+------------------------
+
+![](img/writer.png)
+
 
 Privacidad
 ----------
