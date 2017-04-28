@@ -18,6 +18,11 @@ Software Libre
 * Copiar
 * Modificar
 
+---------------
+
+![Mapa Conceptual](img/Mapa_conceptual_del_software_libre.svg)
+
+
 Bibliografía
 ------------
 [El derecho a leer (Richard Stallman)](https://www.gnu.org/philosophy/right-to-read.es.html)
