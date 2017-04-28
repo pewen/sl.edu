@@ -64,7 +64,6 @@ Distribuciones GNU/Linux
 --------------------------
 ![](img/gnu.jpg)
 
-
 ------------------------
 
 ![](img/libreoffice.png)
@@ -85,6 +84,11 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 
 ![Mapa Conceptual](img/Mapa_conceptual_del_software_libre.jpg)
 
+---------------
+
+"El Software Libre no es un asunto técnico, es un asunto ético del
+uso de las tecnologías, porque el Software Libre respeta la libertad
+del usuario y la solidaridad social de su comunidad" RMS
 
 Bibliografía
 ------------
