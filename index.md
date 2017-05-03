@@ -77,6 +77,10 @@ Distribuciones GNU/Linux
 --------------------------
 ![](img/gnu.jpg)
 
+----------------------
+
+![](img/varios_sl.png)
+
 ------------------------
 
 ![](img/libreoffice.png)
