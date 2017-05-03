@@ -10,9 +10,13 @@ Software Privativo
 ------------------
 Software No Libre
 
+¿Qué es el Software Libre?
+--------------------------
+El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo
+
 ¿Qué es el movimiento del software libre?
 -----------------------------------------
-Promueve que los usuarios de computadoras obtengan la libertad que otorga el software libre. El software libre permite que los usuarios ejerzan el control de sus propias tareas de computación
+Promueve que las usuarias de computadoras obtengan la libertad que otorga el software libre. El software libre permite que las usuarias ejerzan el control de sus propias tareas de computación
 
 Richard Stallman
 ----------------
@@ -49,9 +53,17 @@ Free Software. Software Libre (Libre ≠ gratis)
 -------------------------
 El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
 
+Copyleft
+--------
+![](img/copyleft.jpg)
+
 ¿Qué es GNU?
 ------------
 ![GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios](img/gnu-head.png)
+
+Licencia GPL
+------------
+![](img/gpl.png)
 
 ¿Qué es GNU/Linux?
 ------------------
@@ -76,7 +88,6 @@ Distribuciones GNU/Linux
 ------------------
 
 ![](img/calc.jpg)
-
 
 Privacidad
 ----------
