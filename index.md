@@ -1,7 +1,6 @@
 % Software Libre para una Educación Libre
 % Daniel
 % 4 de Mayo 2017
-![](img/cc_by.png)
 
 ¿Qué es el Software?
 --------------------
@@ -88,6 +87,10 @@ Distribuciones GNU/Linux
 ------------------------
 
 ![](img/writer.png)
+
+------------------
+
+![](img/press.png)
 
 ------------------
 
