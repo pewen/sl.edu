@@ -94,7 +94,7 @@ Distribuciones GNU/Linux
 
 ------------------
 
-![](img/calc.jpg)
+![](img/calc.png)
 
 Privacidad
 ----------
