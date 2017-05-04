@@ -64,6 +64,12 @@ Licencia GPL
 ------------
 ![](img/gpl.png)
 
+Licencias para software
+-----------------------
+Licencias de software libre compatibles con la GPL
+ 
+https://www.gnu.org/licenses/license-list.es.html
+
 ¿Qué es GNU/Linux?
 ------------------
 ![](img/gnu_tux.png)
