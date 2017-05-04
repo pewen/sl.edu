@@ -54,6 +54,8 @@ El software libre es una cuestión de libertad, no de precio. Para entender el c
 
 Copyleft
 --------
+Los desarrolladores de software privativo usan el copyright para restringir la libertad de los usuarios. El copyright garantiza la libertad
+
 ![](img/copyleft.jpg)
 
 ¿Qué es GNU?
