@@ -67,8 +67,7 @@ Licencia GPL
 Licencias para software
 -----------------------
 Licencias de software libre compatibles con la GPL
- 
-https://www.gnu.org/licenses/license-list.es.html
+[https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
 ¿Qué es GNU/Linux?
 ------------------
@@ -118,6 +117,12 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 "El Software Libre no es un asunto técnico, es un asunto ético del
 uso de las tecnologías, porque el Software Libre respeta la libertad
 del usuario y la solidaridad social de su comunidad" RMS
+
+Agradecimientos
+---------------
+Maria Vazquez
+
+Betiana Olivero
 
 Bibliografía
 ------------
