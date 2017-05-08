@@ -1,29 +1,30 @@
-% Software Libre para una Educación Libre
-% Daniel
-% 4 de Mayo 2017
+---
+title: "Software Libre para una Educación Libre"
+author: "Daniel"
+date: 4 de Mayo 2017
+---
 
-¿Qué es el Software?
---------------------
+# ¿Qué es el Software?
 
-Software Privativo
-------------------
+# Software Privativo
+
 Software No Libre
 
-¿Qué es el Software Libre?
---------------------------
+# Software Libre
+
+# ¿Qué es el Software Libre?
+
 El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo
 
-¿Qué es el movimiento del software libre?
------------------------------------------
+# ¿Qué es el movimiento del software libre?
+
 Promueve que las usuarias de computadoras obtengan la libertad que otorga el software libre. El software libre permite que las usuarias ejerzan el control de sus propias tareas de computación
 
-Richard Stallman
-----------------
+# Richard Stallman
 
 ![](img/RMS_SL_esc.png)
 
-Software Libre
---------------
+# Libertades
 
 Respeta 4 libertades esenciales
 
@@ -32,103 +33,103 @@ Respeta 4 libertades esenciales
 * Copiar
 * Modificar
 
-Ejecutar
---------
+# Ejecutar
+
 La libertad de usar el programa, con cualquier propósito
 
-Estudiar
---------
+# Estudiar
+
 La libertad de estudiar cómo funciona el programa y modificarlo en relación a necesidades específicas
 
-Copiar
-------
+# Copiar
+
 La libertad de distribuir copias del programa, con lo cual se puede ayudar a otros usuarios.
 
-Modificar
----------
+# Modificar
+
 La libertad de mejorar el programa y hacer públicas esas mejoras para que toda la comunidad pueda beneficiarse de ellas
 
-Free Software. Software Libre (Libre ≠ gratis)
--------------------------
+# Free Software. Software Libre (Libre ≠ gratis)
+
 El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
 
-Copyleft
---------
+# Copyleft
 
 [¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
 
 ![](img/copyleft.jpg)
 
-¿Qué es GNU?
-------------
+# ¿Qué es GNU?
+
 ![GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios](img/gnu-head.png)
 
-Licencia GPL
-------------
+# Licencia GPL
+
 ![](img/gpl.png)
 
-Licencias para software
------------------------
+# Licencias para software
+
 Licencias de software libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
-¿Qué es GNU/Linux?
-------------------
+# GNU/Linux
+
+# ¿Qué es GNU/Linux?
+
 ![](img/gnu_tux.png)
 
-Distribuciones GNU/Linux
-------------------------
+# Distribuciones GNU/Linux
+
 ![](img/distros.jpg)
 
-¿Qué podemos hacer con SL?
---------------------------
+# ¿Qué podemos hacer con SL?
+
 ![](img/gnu.jpg)
 
-----------------------
+# 
 
 ![](img/varios_sl.png)
 
-------------------------
+# 
 
 ![](img/libreoffice.png)
 
-------------------------
+# 
 
 ![](img/writer.png)
 
-------------------
+# 
 
 ![](img/press.png)
 
-------------------
+# 
 
 ![](img/calc.png)
 
-Privacidad
-----------
+# Privacidad
 
-Estándares Libres y Abiertos
-----------------------------
+# Estándares Libres y Abiertos
+
 Crear un ambiente favorable para que el Software Libre pueda prosperar
 
----------------
+# 
 
 ![Mapa Conceptual](img/Mapa_conceptual_del_software_libre.jpg)
 
----------------
+# Ética
 
 "El Software Libre no es un asunto técnico, es un asunto ético del
 uso de las tecnologías, porque el Software Libre respeta la libertad
 del usuario y la solidaridad social de su comunidad" RMS
 
-Agradecimientos
----------------
+# Agradecimientos
+
 Maria Vazquez
 
 Betiana Olivero
 
-Bibliografía
-------------
+# Bibliografía
+
 [El derecho a leer (Richard Stallman)](https://www.gnu.org/philosophy/right-to-read.es.html)
 
 [Software libre para una sociedad libre (Richard Stallman)](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
