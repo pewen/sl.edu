@@ -2,6 +2,7 @@
 title: "Software Libre para una Educación Libre"
 author: "Daniel"
 date: 4 de Mayo 2017
+output: revealjs::revealjs_presentation
 ---
 
 # ¿Qué es el Software?
@@ -108,7 +109,7 @@ Licencias de software libre compatibles con la GPL
 
 # Privacidad
 
-# Estándares Libres y Abiertos
+# Estándares consensuados Libres y Abiertos Vs Estándares de facto
 
 Crear un ambiente favorable para que el Software Libre pueda prosperar
 
