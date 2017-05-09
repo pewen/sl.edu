@@ -109,7 +109,9 @@ Licencias de software libre compatibles con la GPL
 
 # Privacidad
 
-# Estándares consensuados Libres y Abiertos Vs Estándares de facto
+# Estándares 
+
+Consensuados, Libres y Abiertos Vs Estándares de facto
 
 Crear un ambiente favorable para que el Software Libre pueda prosperar
 
