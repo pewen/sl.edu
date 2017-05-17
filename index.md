@@ -73,9 +73,15 @@ El software libre es una cuestión de libertad, no de precio. Para entender el c
 Licencias de software libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
-# GNU/Linux
+# ¿Qué es Linux?
+
+![](img/motor.jpg)
 
 # ¿Qué es GNU/Linux?
+
+![](img/auto.png)
+
+# GNU/Linux
 
 ![](img/gnu_tux.png)
 
