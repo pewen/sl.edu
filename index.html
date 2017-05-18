@@ -29,9 +29,14 @@
 
 <section>
   <h1 class="title">Software Libre para una Educación Libre</h1>
-  <h2 class="author">Daniel</h2>
-  <h3 class="date">4 de Mayo 2017</h3>
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a>
+  <p class="author">Daniel</p>
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+       href="http://creativecommons.org/publicdomain/zero/1.0/deed.es_ES">
+      <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+</a>
+  
 </section>
 
 <section id="qué-es-el-software" class="slide level1">
@@ -191,8 +196,6 @@
 </section>
 <section id="agradecimientos" class="slide level1">
 <h1>Agradecimientos</h1>
-<p>Maria Vazquez</p>
-<p>Betiana Olivero</p>
 </section>
 <section id="bibliografía" class="slide level1">
 <h1>Bibliografía</h1>
@@ -212,12 +215,14 @@
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
 
         // Optional reveal.js plugins
         dependencies: [
           { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
           { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
-          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+              { src: 'reveal.js/plugin/notes/notes.js', async: true }
         ]
       });
     </script>

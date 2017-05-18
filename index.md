@@ -1,7 +1,6 @@
 ---
 title: "Software Libre para una Educación Libre"
 author: "Daniel"
-date: 4 de Mayo 2017
 output: revealjs::revealjs_presentation
 ---
 
@@ -132,10 +131,6 @@ uso de las tecnologías, porque el Software Libre respeta la libertad
 del usuario y la solidaridad social de su comunidad" RMS
 
 # Agradecimientos
-
-Maria Vazquez
-
-Betiana Olivero
 
 # Bibliografía
 
